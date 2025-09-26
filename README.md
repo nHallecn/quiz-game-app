@@ -1,5 +1,7 @@
 # Quiz Game App
 
+[View Live](https://nhallecn.github.io/quiz-game-app/)
+
 A simple and fun quiz game built with vanilla HTML, CSS, and JavaScript. This project tests a user's general knowledge with a series of multiple-choice questions.
 
 ## Features
@@ -20,3 +22,4 @@ A simple and fun quiz game built with vanilla HTML, CSS, and JavaScript. This pr
 
 1.  Clone this repository.
 2.  Open the `index.html` file in your web browser."# quiz-game-app" 
+
